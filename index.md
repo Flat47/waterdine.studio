@@ -19,4 +19,4 @@ Studio Waterdine™ is happy to celebrate Julie Queen's promotion to CEO and cha
 
 - Tiger Engine™
 
-Studio Waterdine™ is a fictional division of Flat 47™.
+Studio Waterdine™ is a fictional division of the real life publisher Flat 47™.
