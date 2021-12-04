@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# Studio Waterdine™
 
-You can use the [editor on GitHub](https://github.com/Flat47/waterdine.studio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Studio Waterdine™ is happy to celebrate Julie Queen's promotion to CEO and chairwoman of the board with a 90% ownership stake.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Entertainment IP Creation.
+### Growing Stories:
 
-### Markdown
+- Evil Shogun™
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- The System™
 
-```markdown
-Syntax highlighted code block
+- My Little Valkyrie™
 
-# Header 1
-## Header 2
-### Header 3
+- Bath™: Spirits and Legends
 
-- Bulleted
-- List
+- Black Rose™
 
-1. Numbered
-2. List
+- Olympians™
 
-**Bold** and _Italic_ and `Code` text
+- Tiger Engine™
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Flat47/waterdine.studio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Studio Waterdine™ is a fictional division of Flat 47™.
