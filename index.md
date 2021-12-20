@@ -1,6 +1,6 @@
 # Studio Waterdine™
 
-Studio Waterdine™ is happy to celebrate Julie Queen's promotion to CEO and chairwoman of the board with a 90% ownership stake.
+Studio Waterdine™ is happy to celebrate Julie Archer's promotion to CEO and chairwoman of the board with a 90% ownership stake.
 
 ## Entertainment IP Creation.
 ### Growing Stories:
