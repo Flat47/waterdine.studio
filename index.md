@@ -7,6 +7,8 @@ Studio Waterdine™ is happy to celebrate Julie Archer's promotion to CEO and ch
 
 - Evil Shogun™
 
+- Silly Shogun™
+
 - The System™
 
 - My Little Valkyrie™
@@ -17,6 +19,6 @@ Studio Waterdine™ is happy to celebrate Julie Archer's promotion to CEO and ch
 
 - Olympians™
 
-- Tiger Engine™
+- 虎.engine™
 
 Studio Waterdine™ is a fictional division of the real life publisher Flat 47™.
