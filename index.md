@@ -1,6 +1,6 @@
 # Studio Waterdine™
 
-Studio Waterdine™ is happy to celebrate Julie Archer's promotion to CEO and chairwoman of the board with a 90% ownership stake.
+Studio Waterdine™ is happy to celebrate Rino Ito's promotion to CEO.
 
 ## Entertainment IP Creation.
 ### Growing Stories:
@@ -20,5 +20,3 @@ Studio Waterdine™ is happy to celebrate Julie Archer's promotion to CEO and ch
 - Olympians™
 
 - 虎.engine™
-
-Studio Waterdine™ is a fictional division of the real life publisher Flat 47™.
